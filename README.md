@@ -11,3 +11,5 @@ y la fucnion int main es donde se pedira el nuemro para sacarle el factorial atr
 
 
 a continuacion se muestran las capturas de la consola para validar que funciones en programa.
+![Captura de pantalla (296) png](https://user-images.githubusercontent.com/71051834/94643470-7f66b500-02ac-11eb-8e1f-329d6d3a036a.jpg)
+![Captura de pantalla (295) png](https://user-images.githubusercontent.com/71051834/94643476-8392d280-02ac-11eb-8789-02087c6f7e72.jpg)
